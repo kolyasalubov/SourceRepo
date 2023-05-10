@@ -28,5 +28,5 @@ try:
     print(f"Wind speed is {w.wind()['speed']} km/hours\nHumidity of the air is {w.humidity}" )
 
 except:
-    print('''Oops!!! There was a problem\nretrieving that information.''')
+    print('''Oops! There was a problem\nretrieving that information.''')
 
