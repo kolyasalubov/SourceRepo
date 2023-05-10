@@ -1,5 +1,4 @@
 
-#####################
 from pyowm import OWM
 import tkinter as tk
 from tkinter import font
