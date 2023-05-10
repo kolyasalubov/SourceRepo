@@ -13,7 +13,7 @@ while True:
     guess_number = int(input('Take a guess! Enter your number: '))
     
     if guess_number == number:
-        print(f'Good job, {user_name}! You are a winner!!!')
+        print(f'Good job, {user_name}! You are a winner!')
         break
     
     elif 1 <= guess_number <= 20 and guess_number < number:
